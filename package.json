@@ -1,0 +1,7 @@
+{
+  "name": "conto",
+  "type": "module",
+  "private": true,
+  "description": "Сколько стоит работа модели: учёт токенов, кэш одинаковых запросов и отчёт о том, что сэкономлено",
+  "scripts": { "replay": "node replay.mjs", "report": "node report.mjs" }
+}
